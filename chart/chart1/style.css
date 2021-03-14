@@ -1,0 +1,131 @@
+body {
+    background-color: #F8F7FF;
+}
+
+.border1 {
+    width: 687px;
+    height: 438px;
+    border-radius: 20px;
+    border-style: ridge;
+    margin-left: 250px;
+    background-color: #FFFFFF;
+}
+
+.border2 {
+    width: 731px;
+    height: 279px;
+    border-style: ridge;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+}
+
+.p1 {
+    width: 219px;
+    height: 60px;
+    margin-left: 1380px;
+    margin-top: -50px;
+    font-size: 45px;
+}
+
+.border3 {
+    width: 1524px;
+    height: 297px;
+    float: left;
+    border-style: ridge;
+    border-radius: 20px;
+    margin-right: 750px;
+    margin-left: 50px;
+    margin-top: -20px;
+    background-color: #FFFFFF;
+}
+
+.border4 {
+    width: 1524px;
+    height: 347px;
+    float: left;
+    border-style: ridge;
+    border-radius: 20px;
+    margin-right: 750px;
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: #FFFFFF;
+}
+
+.border5 {
+    width: 283px;
+    height: 1509px;
+    margin-right: 50px;
+    background-color: #151631;
+    border-style: ridge;
+    border-radius: 20px;
+    margin-top: -850px;
+    margin-left: 1600px;
+}
+
+.p2 {
+    float: right;
+    width: 1433px;
+    height: 280px;
+    font-size: 30px;
+}
+
+.ishow {
+    height: 41px;
+    width: 41px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.divborder1 {
+    float: right;
+}
+
+.pborder1 {
+    font-size: 41px;
+    margin-top: -38px;
+    font-family: fantasy;
+    color: #8c8c8c;
+}
+
+.lashow {
+    float: right;
+    font-size: 26px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.lashow2 {
+    font-size: 26px;
+    margin-top: 20px;
+    margin-left: -150px;
+}
+
+.inputstyleborder {
+    float: right;
+    margin-top: 10px;
+    width: 180px;
+    ;
+}
+
+.inputstyleborder1 {
+    width: 180px;
+    margin-top: 10px;
+    margin-left: -230px;
+}
+
+h2 {
+    margin-top: -1150px;
+    margin-left: 1720px;
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/IRANSans-Bold-web.eot');
+    src: url('../fonts/IRANSans-Bold-web.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/IRANSans-Bold-web.woff2') format('woff2'), /* Chrome36+, Opera24+*/
+    url('../fonts/IRANSans-Bold-web.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/IRANSans-Bold-web.ttf') format('truetype');
+}
+
+span {
+    color: #6CD600;
+}

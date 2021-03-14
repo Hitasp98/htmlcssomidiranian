@@ -1,0 +1,144 @@
+body {
+    background-color: #F7F3F1;
+}
+
+header,
+section,
+footer,
+aside,
+nav,
+main,
+article,
+figure {
+    display: block;
+}
+
+.border {
+    width: 1722px;
+    height: 901px;
+    border: 10px solid #FFFFFF;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.rightanim {
+    float: right;
+    margin: auto;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+
+.leftanim {
+    width: 464px;
+    height: 482px;
+    margin-top: 319px;
+    margin-left: 130px;
+}
+
+.bordermid {
+    margin-top: -780px;
+    margin-left: 596px;
+    width: 563px;
+    height: 679px;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    box-shadow: 1px 1px 2px 2px gainsboro;
+}
+
+.divmid {}
+
+.pmid {
+    padding-top: 70px;
+    padding-left: 60px;
+    font-size: 28px;
+    margin-top: 80px;
+}
+
+h1 {
+    margin-top: -800px;
+    margin-left: 1030px;
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/IRANSans-Bold-web.eot');
+    src: url('../fonts/IRANSans-Bold-web.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/IRANSans-Bold-web.woff2') format('woff2'), /* Chrome36+, Opera24+*/
+    url('../fonts/IRANSans-Bold-web.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/IRANSans-Bold-web.ttf') format('truetype');
+}
+
+span {
+    color: #6CD600;
+}
+
+label {}
+
+.divright {
+    height: 1px;
+    float: right;
+    font-size: 18px;
+    margin-right: 10px;
+    margin-top: 40px;
+    font-size: 18px;
+    margin-bottom: -100px;
+}
+
+.divleft {
+    margin-left: 250px;
+    font-size: 18px;
+    margin-top: -25px;
+    font-size: 18px;
+    padding-top: 26px;
+    padding-left: 20px;
+}
+
+.inputright {
+    width: 153px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    margin-right: 25px;
+    margin-top: 60px;
+}
+
+.inputleft {
+    margin-left: 210px;
+    margin-top: 12px;
+}
+
+.inputrightemail {
+    float: right;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+
+input {
+    background-color: #EDEDED;
+    border: 1px solid #EDEDED;
+    margin-top: -90px;
+    margin-bottom: -40px;
+    font-size: 18px;
+}
+
+.stylep {
+    font-size: 18px;
+    float: right;
+    margin-right: 5px;
+    margin-top: -45px;
+}
+
+button {
+    width: 241px;
+    height: 62px;
+    font-size: 30px;
+    color: #FFFFFF;
+    background-color: #3370D5;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left: 300px;
+}
+
+.astyle {
+    font-size: 30px;
+    margin-left: 750px;
+}

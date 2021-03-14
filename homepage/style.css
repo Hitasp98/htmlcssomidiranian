@@ -1,0 +1,87 @@
+body {
+    background-color: #F8F7FF;
+}
+
+.divmain {
+    width: 1756px;
+    height: 4172px;
+    background-color: #FFFFFF;
+    margin-left: 101px;
+    margin-top: 182px;
+}
+
+.meun {
+    position: absolute;
+    display: flex;
+    width: 1108px;
+    height: 100px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 3px 3px gray;
+    margin-top: -800px;
+    margin-left: 300px;
+}
+
+.meun>p {
+    padding-left: 70px;
+    background-color: #FFFFFF;
+    font-size: 31px;
+    margin-left: 20px;
+}
+
+.meun>button {
+    width: 191px;
+    height: 56px;
+    font-size: 31px;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 4px 4px gray;
+    border: 1px solid #FFFFFF;
+}
+
+.pview1 {
+    margin-top: -3300px;
+    margin-left: 1670px;
+}
+
+.btnshow {
+    margin-left: 1550px;
+    margin-top: 90px;
+    width: 238px;
+    height: 80px;
+    font-size: 39px;
+    background-color: #2EB67D;
+    border-radius: 20px;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+}
+
+.hview {
+    margin-top: 60px;
+    margin-left: 1620px;
+}
+
+span {
+    color: #6CD600
+}
+
+.bview {
+    width: 1754px;
+    border-top: 2px solid #C1C3C7;
+    margin-top: 2250px;
+    margin-left: 100px;
+}
+
+.heder-container {
+    display: flex;
+}
+
+.heder-container>div {
+    width: 400px;
+    line-height: 75px;
+    font-size: 20px;
+    margin-top: -300px;
+    margin-left: 200px;
+    font-weight: bold;
+}
