@@ -1,0 +1,147 @@
+body {
+  background-color: #f8f7ff;
+  display: grid;  
+  grid-template-columns: 100px 100px 100px;  
+  grid-template-rows: 50px 50px;  
+}
+
+.divmain {
+  width: 1756px;
+  height: 4172px;
+  background-color: #ffffff;
+  margin-left: 101px;
+  margin-top: 182px;
+}
+.locmeun {
+  position: absolute;
+  margin-top: -600px;
+  margin-left: 300px;
+  border-radius: 20px;
+  box-shadow: 3px 3px gray;
+  background-color: #ffffff;
+  width: 1108px;
+  height: 100px;
+}
+.meun {
+  display: flex;
+  flex-direction: row;
+}
+
+.meun > p {
+  padding-left: 70px;
+  background-color: #ffffff;
+  font-size: 31px;
+  margin-left: 20px;
+}
+
+.meun > button {
+  width: 191px;
+  height: 56px;
+  font-size: 31px;
+  margin-top: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 4px 4px gray;
+  border: 1px solid #ffffff;
+}
+
+.pview1 {
+  margin-top: -3300px;
+  margin-left: 1670px;
+  font-size:30px;
+display: flex;
+width: 200px;
+flex-direction: row;
+margin-left: 200px;
+}
+
+.btnshow {
+  margin-left: 1550px;
+  margin-top: 90px;
+  width: 238px;
+  height: 80px;
+  font-size: 39px;
+  background-color: #2eb67d;
+  border-radius: 20px;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+}
+
+.hview {
+  margin-top: 60px;
+  margin-left: 1520px;
+}
+
+span {
+  color: #6cd600;
+}
+
+.bview {
+  width: 1754px;
+  border-top: 2px solid #c1c3c7;
+  margin-top: 2250px;
+  margin-left: 50px;
+}
+
+.heder-container {
+  display: flex;
+}
+
+.heder-container > div {
+  width: 400px;
+  line-height: 75px;
+  font-size: 20px;
+  margin-top: -300px;
+  margin-left: 200px;
+  font-weight: bold;
+}
+
+@media only screen and (min-width: 600px) {
+    .locmeun{
+        margin-top: -800px;
+        margin-left: 100px;
+        /* width: 108px;
+        height: 100px; */
+        
+    }
+    .pview1{
+        width: 200px;
+        margin-left: -60px;
+        font-size:30px;
+        display: flex;
+        width: 300px;
+        flex-direction: column;
+        margin-left: 1500px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .locmeun{
+        margin-top: -1100px;
+        margin-left: 300px;
+    }
+    .pview1{
+        width: 200px;
+        margin-left: -60px;
+        font-size:30px;
+        display: flex;
+        width: 300px;
+        flex-direction: column;
+        margin-left: 1500px;
+    }
+}
+@media only screen and (min-width: 700px) {
+
+}
+.locmeun{
+    margin-top: -900px;
+    margin-left: 300px;
+}
+.pview1{
+    width: 200px;
+    margin-left: -60px;
+    font-size:30px;
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    margin-left: 1500px;
+}

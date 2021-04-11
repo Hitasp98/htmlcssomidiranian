@@ -1,0 +1,21 @@
+.Loc {
+    float: right;
+    margin-top: -30px;
+}
+
+h3 {
+    margin-top: -600px;
+    margin-left: 1600px;
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/IRANSans-Bold-web.eot');
+    src: url('../fonts/IRANSans-Bold-web.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/IRANSans-Bold-web.woff2') format('woff2'), /* Chrome36+, Opera24+*/
+    url('../fonts/IRANSans-Bold-web.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/IRANSans-Bold-web.ttf') format('truetype');
+}
+
+span {
+    color: #6CD600;
+}
