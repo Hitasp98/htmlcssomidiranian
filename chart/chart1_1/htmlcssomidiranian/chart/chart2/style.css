@@ -1,0 +1,119 @@
+body {
+    background-color: #FFFFFF;
+}
+
+h1 {
+    text-align: center;
+}
+
+.border {
+    width: 1588px;
+    height: 780px;
+    border-style: solid;
+    border-width: 10px;
+    margin: auto;
+    margin-top: 80px;
+    border-color: #D2D2FD;
+}
+
+.border1 {
+    height: 90px;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #D2D2FD;
+    margin: 40px;
+    margin-top: 80px;
+    margin-bottom: -50px;
+}
+
+.border1>div {
+    background-color: #D2D2FD;
+    width: 112px;
+    margin: 10px;
+    padding-left: 30px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.border2 {
+    height: 90px;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #FFFFFF;
+    margin: 40px;
+    margin-top: 80px;
+    border-bottom-style: solid;
+    border-bottom-color: #707070;
+    margin-bottom: -50px;
+}
+
+.border2>select {
+    background-color: #D2D2FD;
+    width: 121px;
+    height: 56px;
+    margin: 10px;
+    border-radius: 30px;
+    padding-left: 30px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.border3 {
+    float: right;
+    height: 90px;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #D2D2FD;
+    margin: 40px;
+    margin-bottom: -30px;
+    margin-top: 80px;
+}
+
+.border3>div {
+    background-color: #D2D2FD;
+    width: 112px;
+    margin: 10px;
+    padding-left: 30px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.border4 {
+    width: 1144px;
+    float: right;
+    height: 90px;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #FFFFFF;
+    margin: 40px;
+    margin-top: 80px;
+    border-bottom-style: solid;
+    border-bottom-color: #707070;
+}
+
+.border4>select {
+    background-color: #D2D2FD;
+    width: 121px;
+    height: 56px;
+    margin: 10px;
+    margin-left: 40px;
+    border-radius: 30px;
+    padding-left: 30px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+button {
+    border-radius: 10px;
+    width: 294px;
+    height: 80px;
+    background-color: #6CD600;
+    font-size: 60px;
+    color: #FFFFFF;
+    margin-top: 420px;
+    margin-left: 20px;
+}

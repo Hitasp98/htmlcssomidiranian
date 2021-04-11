@@ -1,0 +1,170 @@
+body {
+    background-color: #ba5370;
+}
+
+.bcLogin {
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: 2px solid #ffffff;
+    padding: 20px;
+    width: 1696px;
+    height: 871px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 70px;
+    margin-left: 250px;
+    box-shadow: 1px grey;
+}
+
+.imgLoc {
+    width: 45px;
+    height: 26px;
+    padding-top: 45px;
+    padding-left: 26px;
+    width: 35px;
+    height: 22px;
+    padding-top: 45px;
+    padding-left: 26px;
+}
+
+.center {
+    padding-top: fixed;
+    left: 50%;
+    margin-top: -50px;
+    text-align: center;
+}
+
+.pcss {
+    color: #030303;
+    font-size: 38px;
+    margin-top: -30px;
+    margin-left: 20%;
+}
+
+.pcss1 {
+    color: #030303;
+    font-size: 77px;
+    margin-top: -0px;
+    margin-left: 10px;
+}
+
+.pcss2 {
+    color: #030303;
+    font-size: 77px;
+    margin-top: -100px;
+    margin-left: -30px;
+}
+
+.pcss3 {
+    width: 146px;
+    color: #030303;
+    font-size: 28px;
+    margin-top: -60px;
+    margin-left: 45%;
+    font-size: 28px;
+    background-color: #fee9b0;
+    border-radius: 2px;
+}
+
+.login {
+    width: 482px;
+    height: 459px;
+    margin-top: -10%;
+    margin-left: 30px;
+    background-color: rgb(228, 244, 230);
+    border-radius: 20px;
+    box-shadow: 1px grey;
+}
+
+.pwelcon {
+    font-size: 39px;
+    float: right;
+    margin-top: -150px;
+    margin-right: 40px;
+    font-style: bolder;
+    font-family: Vazir;
+    src: url("https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir-Bold.eot");
+    src: url("https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir-Bold.eot?#iefix") format("embedded-opentype"), url("https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir-Bold.woff2") format("woff2"), url("https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir-Bold.woff") format("woff"), url("https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir-Bold.ttf") format("truetype");
+    font-weight: bold;
+}
+
+.divwelcom {
+    float: right;
+    margin-top: -100px;
+}
+
+::placeholder {
+    color: #b6c3b8;
+    float: right;
+}
+
+.inputwelcom {
+    margin-right: 130px;
+    margin-top: -35px;
+    margin-bottom: 20px;
+    width: 70%;
+    font-size: 25px;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgb(228, 244, 230);
+    border-bottom: 2px solid rgb(55, 77, 66);
+    font-family: SegoeUI, Segoe UI;
+}
+
+.astyle {
+    float: left;
+    font-size: 20px;
+    margin-top: 48px;
+}
+
+.lawelcom {
+    font-size: 32px;
+    margin-left: 350px;
+}
+
+.pcss2 {}
+
+#btnlogin {
+    background-color: #3370d5;
+    width: 381px;
+    height: 46px;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-left: 0px;
+    color: #fff;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+@media (min-width: 1000px) and (min-height: 700px) {
+    .bcLogin {
+        width: 1656px;
+        height: 851px;
+        padding: 10px;
+        margin-top: 30px;
+        margin-left: 90px;
+    }
+    .imgLoc {
+        width: 35px;
+        height: 22px;
+        padding-top: 45px;
+        padding-left: 26px;
+    }
+    .pcss {
+        color: #030303;
+        font-size: 38px;
+        margin-top: -30px;
+    }
+    .pcss1 {
+        color: #030303;
+        font-size: 77px;
+        margin-top: -50px;
+        margin-left: -130px;
+    }
+    .pcss2 {
+        color: #030303;
+        font-size: 77px;
+        margin-top: -100px;
+        margin-left: -10px;
+    }
+}
